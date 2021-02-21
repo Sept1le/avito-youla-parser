@@ -1,4 +1,4 @@
-from bot.bot import Bot
+from bots.avito_bot import Bot
 
 b = Bot()
 b.run()
